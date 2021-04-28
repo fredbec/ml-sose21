@@ -1,1 +1,1 @@
-##Jupyter Notebooks of the Practicals for the Machine Learning course in summer semester 2021
+# Jupyter Notebooks: Practicals for the Machine Learning course in the 2021 summer semester
